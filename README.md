@@ -76,3 +76,6 @@ INSTALLATION:
 download the file "memory helper" into your file explorer and run the python file inside called "memorytester" to use the program and of course edit the file "data" to add data for the program to work with
 (if you cannot download the file, make a file with a text file and python file in it and copy the contents of the python file "memorytester" into your python file. copy the example data if you wish into your text file
 MAKE SURE YOUR TEXT FILE IS NAMED "data")
+
+NOTE:
+DO NOT HAVE ANY EMPTY LINES AT THE END OF YOUR TEXT FILE OR IT CRASHES AND I AM TOO LAZY TO FIX THAT SINCE ONLY I AM REALLY GOING TO USE THIS AND NOBODY IS EVER GOING TO SEE MY GITHUB PAGE
