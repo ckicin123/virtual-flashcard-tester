@@ -40,6 +40,31 @@ ACTUAL APPLICATIONAL USE:
 
 let's say you typed in the data file:
 
-first spanish word#definition of word#0
-second spanish word#definition of 2nd word#0
+first spanish word#english definition of word#0
+second spanish word#english definition of 2nd word#0
 
+
+
+now when you run the code it will ask you once again for:
+- left to right
+or
+- right to left
+
+now let's say the user chose left to right again
+
+the output of the program:
+
+what is
+
+first spanish word
+
+on the other side?
+: (input prompt)
+
+
+
+this is good as it tests if you know the spanish word in english helping you memorise it
+
+good thing to note is that the score increases faster the more you get correct in a row so words you definitely have memorised you'll get much less of
+
+if you were to get this prompt correct it would then ask you for the second spanish word
