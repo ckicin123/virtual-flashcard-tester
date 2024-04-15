@@ -1,0 +1,12 @@
+glucose's reagent for test#benedict's reagent (remember to boil with food)#2
+benedict's initial color#blue#1
+benedict's positive result color (in order of glucose presence)#green,yellow,orange,brick red#1
+starch's reagent for test#iodine (add to food)#2
+iodine initial color#yellow-brown#2
+iodine positive result color#blue-black#2
+protein/amino acids's reagent for test#biuret's reagent (mixture of sodium hydroxide and copper sulfate, add to food)#1
+biuret initial color#blue#2
+biuret positive result color#lilac/purple#2
+fat's reagent for test#ethanol (dissolve ethanol in water with grinded food)#1
+ethanol's initial color#colorless#2
+ethanol's positive result#white emulsion#1
