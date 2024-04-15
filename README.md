@@ -65,11 +65,14 @@ on the other side?
 
 this is good as it tests if you know the spanish word in english helping you memorise it
 
-INSTALLATION:
-copy the file "memory helper" into your file explorer and run the python file inside called "memorytester" to use the program and of course edit the file "data" to add data for the program to work with
-
 good thing to note is that the score increases faster the more you get correct in a row so words you definitely have memorised you'll get much less of
 
 if you were to get this prompt correct it would then ask you for the second spanish word on the other side and so on
 
 KEEP IN MIND if you chose right side to left side, in this example it would give a english definition and expect you to give the spanish word for it
+
+
+INSTALLATION:
+download the file "memory helper" into your file explorer and run the python file inside called "memorytester" to use the program and of course edit the file "data" to add data for the program to work with
+(if you cannot download the file, make a file with a text file and python file in it and copy the contents of the python file "memorytester" into your python file. copy the example data if you wish into your text file
+MAKE SURE YOUR TEXT FILE IS NAMED "data")
