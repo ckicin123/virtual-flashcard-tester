@@ -1,7 +1,7 @@
 # virtual-flashcard-tester
 flash cards but online and smarter
 
-this program works by putting data into the data file and running the other file in python
+this program works by putting data into the data file and running the other file in python (installation at bottom)
 
 in the data file if you type in:
 example#answer#0
@@ -65,6 +65,11 @@ on the other side?
 
 this is good as it tests if you know the spanish word in english helping you memorise it
 
+INSTALLATION:
+copy the file "memory helper" into your file explorer and run the python file inside called "memorytester" to use the program and of course edit the file "data" to add data for the program to work with
+
 good thing to note is that the score increases faster the more you get correct in a row so words you definitely have memorised you'll get much less of
 
-if you were to get this prompt correct it would then ask you for the second spanish word
+if you were to get this prompt correct it would then ask you for the second spanish word on the other side and so on
+
+KEEP IN MIND if you chose right side to left side, in this example it would give a english definition and expect you to give the spanish word for it
